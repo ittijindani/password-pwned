@@ -1,5 +1,5 @@
 ```USAGE:
-	hibp_password.py [OPTIONS] [password1, password2...]
+	python3 hibp_password.py [OPTIONS] [password1, password2...]
 
 OPTIONS
 -h, -H, -help, -Help
